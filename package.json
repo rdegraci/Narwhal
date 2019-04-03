@@ -1,0 +1,15 @@
+{
+  "name": "narwhal",
+  "version": "1.0.0",
+  "description": "node socket to socketio bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodney Degracia",
+  "license": "MIT",
+  "dependencies": {
+    "json-duplex-stream": "^1.2.0",
+    "node-static": "^0.7.11"
+  }
+}
