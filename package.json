@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "json-duplex-stream": "^1.2.0",
-    "node-static": "^0.7.11"
+    "node-static": "^0.7.11",
+    "socket.io": "2.0.2",
+    "uuid": "3.3.2"
   }
 }
